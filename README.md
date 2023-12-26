@@ -8,5 +8,5 @@ An annual event of programming challenges started December 2015. Every year sinc
 
 Notes on my solutions
 
-Day 17: implementation of A* search algorithms; use if HashSets to store current search states.
+Day 17: implementation of A* search algorithm; using HashSets to store current search states. Part2 runs in under 5 seconds on 8GB DDR3 RAM.
 
