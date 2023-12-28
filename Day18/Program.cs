@@ -1,4 +1,4 @@
-﻿namespace Day17
+﻿namespace Day18
 {
     class Day17
     {

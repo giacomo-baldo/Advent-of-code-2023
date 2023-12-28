@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace Day17
+namespace Day18
 {
     public class Part1
     {
