@@ -1,6 +1,6 @@
 ﻿namespace Day18
 {
-    class Day17
+    class Day18
     {
         [STAThread]
         static void Main(string[] args)
